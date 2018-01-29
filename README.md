@@ -1,2 +1,2 @@
 # study-java
-Just a repository!
+Hi!
